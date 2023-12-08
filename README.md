@@ -1,5 +1,5 @@
 <div align="center">
-<img height="360" width="480" src="https://raw.githubusercontent.com/herschel-ma/herschel-ma/master/Private.gif" alt="gif with funny random cat say thank you." />
+<img height="180" width="240" src="https://raw.githubusercontent.com/herschel-ma/herschel-ma/master/Private.gif" alt="gif with funny random cat say thank you." />
 </div>
 
 <p align="center">
